@@ -1,0 +1,37 @@
+# This is a basic workflow to help you get started with Actions
+
+name: 🚀 DevOps 👻
+
+# 控制 action 何时运行
+# 在 push 或 pull 请求时触发工作流程事件，但仅针对  master 分支
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+# 一个 workflow 运行由可以串行或并行运行的一个或多个 jobs 组成
+jobs:
+  # 此工作流程仅包含一个名为 "build" 的 job
+  build:
+    # job 将运行的 runner 类型(执行的系统环境 Linux/ macOS / Windows)
+    runs-on: ubuntu-latest
+
+    # 步骤表示将作为 job 一部分执行的一系列 tasks
+    steps:
+      # 在 $GITHUB_WORKSPACE下检出你的repository，以便你的 job 可以访问它
+      - uses: actions/checkout@v2
+
+      # 使用 runners shell 运行单个命令
+      - name: Run a one-line script ✅ 👨🏻‍💻
+        run: echo 正在执行单个命令!
+
+      # 使用 runners shell 运行一组命令
+      - name: Run a multi-line script ✅ 👨🏻‍💻
+        run: |
+          echo 正在执行多个命令的 lint
+          echo 正在执行多个命令的 test
+          echo 正在执行多个命令的 build
+          echo 正在执行多个命令的 deploy
+          echo 正在执行多个命令的 npm publish
+          echo finished 🎉
