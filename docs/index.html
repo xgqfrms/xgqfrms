@@ -44,7 +44,7 @@
   <footer class="site-footer">
     <div>
       <span class="site-footer-owner">
-        <a href="https://github.com/xgqfrms/xgqfrms">xgqfrms</a> is maintained by 
+        <a href="https://github.com/xgqfrms/xgqfrms">xgqfrms</a> is maintained by
         <a href="https://github.com/xgqfrms">xgqfrms</a>.&nbsp;&nbsp;&nbsp;
         <h3><mark>Powered by HTML5+CSS3+JavaScript...</mark></h3>
       </span>
@@ -62,8 +62,11 @@
     </a>
   </footer>
   <!-- js -->
-  <script>
-    const log = console.log;
+  <script type="module">
+    // import { App } from "./index.js";
+    import { App } from "./index.mjs";
+    const app = new App();
+    app.init();
   </script>
   <!-- script -->
   <script type="text/javascript">
@@ -75,9 +78,9 @@
       var pageTracker = _gat._getTracker("UA-68009907-1");
       pageTracker._trackPageview();
     } catch(err) {
-      // 
+      //
     }
-  </script> 
+  </script>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

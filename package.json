@@ -1,0 +1,27 @@
+{
+  "name": "xgqfrms",
+  "version": "1.0.1",
+  "description": "👻xgqfrms's official website!",
+  "main": "docs/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgqfrms/xgqfrms.git"
+  },
+  "keywords": [
+    "xgqfrms",
+    "official",
+    "website"
+  ],
+  "author": "xgqfrms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xgqfrms/xgqfrms/issues"
+  },
+  "homepage": "https://github.com/xgqfrms/xgqfrms#readme"
+}
