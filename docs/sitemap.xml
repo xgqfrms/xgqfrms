@@ -1,0 +1,33 @@
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://www.xgqfrms.xyz/</loc>
+    <lastmod>2016-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://xgqfrms.xyz/</loc>
+    <lastmod>2016-09-05 T00:00:08+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://www.xgqfrms.xyz/about.html</loc>
+    <lastmod>2016-09-05 T00:00:08+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://www.xgqfrms.xyz/map.html</loc>
+    <lastmod>2016-09-05 T00:00:08+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.xgqfrms.xyz/404.html</loc>
+    <lastmod>2016-09-05 T00:00:08+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
+<!--  http://www.sitemaps.org/protocol.html  -->
