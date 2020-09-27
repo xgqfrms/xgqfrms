@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![GitHub forks](https://img.shields.io/github/forks/xgqfrms/cdn.svg?style=social)](https://github.com/xgqfrms/xgqfrms/network/members)
 
 
-
 ![Twitter Follows](https://img.shields.io/twitter/follow/xgqfrms?label=Follow&amp;style=social)
 
 https://www.xgqfrms.xyz/
@@ -28,7 +27,9 @@ https://www.xgqfrms.xyz/
 
 ![version badge](https://img.shields.io/badge/version-1.1.1-brightgreen)
 
-![stars badge](https://img.shields.io/badge/stars-★★★★☆-brightgreen)
+![stars badge](https://img.shields.io/badge/stars-★★★★★-brightgreen)
+
+<!-- ★★★★☆ -->
 
 ![emoji badges](https://img.shields.io/badge/👻✅🎉🔥🎯🕵💻🌈🚀-emoji_badges-brightgreen)
 
