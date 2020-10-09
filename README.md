@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [![GitHub forks](https://img.shields.io/github/forks/xgqfrms/cdn.svg?style=social)](https://github.com/xgqfrms/xgqfrms/network/members)
 
+[![Codewars Badge](https://www.codewars.com/users/xgqfrms/badges/micro)](https://www.codewars.com/users/xgqfrms)
 
 ![Twitter Follows](https://img.shields.io/twitter/follow/xgqfrms?label=Follow&amp;style=social)
 
