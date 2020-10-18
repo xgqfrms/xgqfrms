@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 ![xgqfrms github stats](https://github-readme-stats.vercel.app/api?username=xgqfrms&show_icons=true)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xgqfrms)
+
 [![GitHub stars](https://img.shields.io/github/stars/xgqfrms/cdn.svg?style=social)](https://github.com/xgqfrms/xgqfrms/stargazers)
 
 [![GitHub forks](https://img.shields.io/github/forks/xgqfrms/cdn.svg?style=social)](https://github.com/xgqfrms/xgqfrms/network/members)
