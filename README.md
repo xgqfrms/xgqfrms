@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@xgqfrms">
   <img src="https://img.shields.io/badge/-@xgqfrms-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@xgqfrms" alt="Medium Badge">
 </a>
-<--
-<a href="https://www.linkedin.com/in/serbis/">
-  <img src="https://img.shields.io/badge/-@xgqfrms-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/xgqfrms/" alt="LinkedIn Badge">
-</a>
--->
 <a href="https://dev.to/xgqfrms">
   <img src="https://img.shields.io/badge/-@xgqfrms-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/xgqfrms" alt="DevTo Badge">
 </a>
 <a href="https://open.spotify.com/user/xgqfrms-id">
   <img src="https://img.shields.io/badge/-@xgqfrms-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/xgqfrms-id" alt="Spotify Badge">
 </a>
-</p>
+
+<!--
+<a href="https://www.linkedin.com/in/xgqfrms/">
+  <img src="https://img.shields.io/badge/-@xgqfrms-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/xgqfrms/" alt="LinkedIn Badge">
+</a>
+-->
 <!--
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 -->
