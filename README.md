@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://xgqfrms.xyz
+<a href="https://xgqfrms.xyz">
   <img src="https://img.shields.io/badge/-xgqfrms-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://xgqfrms.xyz alt="Website Badge">
 </a>
 <a href="https://medium.com/@xgqfrms">
@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <a href="https://dev.to/xgqfrms">
   <img src="https://img.shields.io/badge/-@xgqfrms-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/xgqfrms" alt="DevTo Badge">
 </a>
-<a href="https://open.spotify.com/user/">
-  <img src="https://img.shields.io/badge/-@xgqfrms-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/5" alt="Spotify Badge">
+<a href="https://open.spotify.com/user/xgqfrms-id">
+  <img src="https://img.shields.io/badge/-@xgqfrms-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/xgqfrms-id" alt="Spotify Badge">
 </a>
 </p>
 <!--
@@ -69,14 +69,13 @@ https://www.xgqfrms.xyz/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="gulp" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="gulp" width="75" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="75" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="25" height="25" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
 </p>
 <!--
