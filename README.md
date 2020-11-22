@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-@xgqfrms-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/xgqfrms" alt="DevTo Badge">
 </a>
 <a href="https://open.spotify.com/user/xgqfrms-id">
-  <img src="https://img.shields.io/badge/-@xgqfrms-1ED760?style=flat-square&amp;labelColor=1ED760&amp;logo=Spotify&amp;link=https://open.spotify.com/user/xgqfrms-id" alt="Spotify Badge">
+  <img src="https://img.shields.io/badge/-@xgqfrms-1ED760?style=flat-square&amp;labelColor=000000&amp;logo=Spotify&amp;link=https://open.spotify.com/user/xgqfrms-id" alt="Spotify Badge">
 </a>
 
 <!--
