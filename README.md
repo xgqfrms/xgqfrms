@@ -125,6 +125,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=xgqfrms&color=ff69b4&label=PV)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=xgqfrms)
 
 <a href="https://info.flagcounter.com/woW7">
