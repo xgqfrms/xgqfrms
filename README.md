@@ -61,9 +61,9 @@ https://www.xgqfrms.xyz/
 
 ## projects 🔥
 
-[![🚀 ✈️ 🚄 CDN for everyone who wants to speed his website freely!😄](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=xgqfrms&repo=cdn)]](https:///cdn.xgqfrms.xyz)
+[![🚀 ✈️ 🚄 CDN for everyone who wants to speed his website freely😄](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=xgqfrms&repo=cdn)](https:///cdn.xgqfrms.xyz)
 
-[![linux-online-docs(鸟哥的Linux 私房菜) 🔥 🚀 🎉 🇨🇳](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=xgqfrms&repo=linux-online-docs)]](https://github.com/xgqfrms/linux-online-docs)
+[![linux-online-docs(鸟哥的Linux 私房菜) 🔥 🚀 🎉 🇨🇳](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=xgqfrms&repo=linux-online-docs)](https://github.com/xgqfrms/linux-online-docs)
 
 
 <h2>Skill Stack</h2>
