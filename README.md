@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 [![Codewars Badge](https://www.codewars.com/users/xgqfrms/badges/micro)](https://www.codewars.com/users/xgqfrms)
 
-![Twitter Follows](https://img.shields.io/twitter/follow/xgqfrms?label=Follow&amp;style=social)
+[![Twitter Follows](https://img.shields.io/twitter/follow/xgqfrms?label=Follow&amp;style=social)](https://twitter.com/xgqfrms)
 
 https://www.xgqfrms.xyz/
 
