@@ -64,7 +64,9 @@ https://www.xgqfrms.xyz/
 
 [![linux-online-docs(鸟哥的Linux 私房菜) 🔥 🚀 🎉 🇨🇳](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=xgqfrms&repo=linux-online-docs)](https://linux.xgqfrms.xyz)
 
+<!--
 [![🚀 ✈️ 🚄 CDN for everyone who wants to speed his website freely😄](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=xgqfrms&repo=cdn)](https:///cdn.xgqfrms.xyz)
+-->
 
 [![learning : A collection of all kinds of resources, videos, pdf, blogs, codes... 📚 + 💻 + ❤](https://github-readme-stats-seven-gilt.vercel.app/api/pin/?username=xgqfrms&repo=learning)](https://learning.xgqfrms.xyz)
 
