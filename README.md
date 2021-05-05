@@ -1,4 +1,4 @@
-# Hi there 👋 <span><img src="https://cdn.xgqfrms.xyz/images/wave-hand.gif" alt="wave-hand" /></span>
+# Hi there <span><img src="https://cdn.xgqfrms.xyz/images/wave-hand.gif" alt="👋" title="wave-hand" style="width: 36px;"/></span>
 
 Here are some ideas to get you started:
 
