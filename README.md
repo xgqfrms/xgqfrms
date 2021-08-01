@@ -138,6 +138,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=xgqfrms)](https://github.com/xgqfrms/github-profile-trophy)
+
+
 ![](https://komarev.com/ghpvc/?username=xgqfrms&color=ff69b4&label=PV)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xgqfrms)
