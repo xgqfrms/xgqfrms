@@ -1,4 +1,10 @@
-# Hi there <span style="max-width: 36px; display: flex;"><img src="https://cdn.xgqfrms.xyz/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" alt="👋" title="wave-hand" style="width: 36px !important;"/></span>
+# Hi there <span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/></span>
+
+<!-- 
+
+https://cdn.xgqfrms.xyz/images/wave-hand.gif
+ 
+-->
 
 Here are some ideas to get you started:
 
