@@ -104,6 +104,4 @@ dist
 .tern-port
 
 # ignore test
-env.js
-env.js
-env.js
+./env.js
