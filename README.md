@@ -98,8 +98,7 @@ https://github.com/devicons/devicon/tree/master/icons
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" /> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angular-original.svg" alt="angular" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <!--   https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg -->
@@ -113,7 +112,7 @@ https://github.com/devicons/devicon/tree/master/icons
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="65" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35" />
 <!--  https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg  -->
 <!--   
 
