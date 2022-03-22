@@ -156,7 +156,7 @@ python
 -->
 
 
-![xgqfrms's github activity graph](https://activity-graph.herokuapp.com/graph?username=xgqfrms&theme=minimal)
+[![xgqfrms's github activity graph](https://activity-graph.herokuapp.com/graph?username=xgqfrms&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=xgqfrms&theme=minimal)
 
 
 <!--
