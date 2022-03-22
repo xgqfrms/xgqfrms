@@ -156,9 +156,6 @@ python
 -->
 
 
-[![xgqfrms's github activity graph](https://activity-graph.herokuapp.com/graph?username=xgqfrms&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=xgqfrms&theme=minimal)
-
-
 <!--
 **xgqfrms/xgqfrms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -173,6 +170,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=xgqfrms&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=xgqfrms&theme=minimal)
+
 
 [![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=xgqfrms)](https://github-profile-trophy.vercel.app/?username=xgqfrms)
 
