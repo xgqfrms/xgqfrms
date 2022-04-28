@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xgqfrms)
 
+![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xgqfrms)
+
+
 <!-- github-readme-stats.vercel.app/api/  -->
 
 <!-- github-readme-stats.vercel.app/api/top-langs/? -->
@@ -75,6 +78,10 @@ https://www.xgqfrms.xyz/
 <!-- ★★★★☆ -->
 
 ![emoji badges](https://img.shields.io/badge/👻✅🎉🔥🎯🕵💻🌈🚀-emoji_badges-brightgreen)
+
+## Gaming
+
+- ![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 
 ## projects 🔥
 
