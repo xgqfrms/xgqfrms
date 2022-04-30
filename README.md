@@ -1,6 +1,17 @@
-<h1 align="center">Hi there <span style="display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style=""/></span></h1>
+<h1 align="center">
+  Hi there <span style="display: flex;">
+  <img
+    src="https://cdn.xgqfrms.xyz/images/wave-hand.gif"
+    srcset="https://cdn.xgqfrms.xyz/images/wave-hand.gif 1x, https://cdn.xgqfrms.xyz/images/wave-hand.gif 2x"
+    alt="👋 wave-hand.gif" title="wave-hand" style="width: 200px; height: 200px;"/>
+  </span>
+</h1>
+
+
 
 <!-- 
+
+srcset 自适应服务，性能优化
 
 https://cdn.xgqfrms.xyz/images/wave-hand.gif
  
@@ -8,7 +19,7 @@ https://cdn.xgqfrms.xyz/images/wave-hand.gif
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Web...
 - 🌱 I’m currently learning Flutter, TypeScript, Swift ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
