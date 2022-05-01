@@ -97,6 +97,11 @@
           background-color: gray;
           border: 1px solid black;
       }
+      .amp-box {
+        box-sizing: border-box;
+        display: grid;
+        border: 1px dashed red;
+      }
   </style>
   <noscript>
     <style amp-boilerplate>
@@ -127,6 +132,16 @@
     }
   </style>
   <link rel="stylesheet" href="./index.css">
+  <!-- AMP custom-element -->
+  <script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
+  <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js" async></script>
+  <script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>
+  <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+  <!-- third parts -->
+  <!-- <script async custom-element="amp-twitter"  src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+  <script async custom-element="amp-instagram" src="https://cdn.ampproject.org/v0/amp-instagram-0.1.js"></script>
+  <script async custom-element="amp-facebook" src="https://cdn.ampproject.org/v0/amp-facebook-0.1.js"></script>
+  <script async custom-element="amp-youtube"  src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script> -->
 </head>
 <body>
   <header class="page-header">
@@ -142,8 +157,58 @@
       </h1>
       <a class="anchor" href="https://mobile.xgqfrms.xyz/">https://mobile.xgqfrms.xyz/</a>
       <mark>More contents coming soon...</mark>
+    </section>
+    <section class="amp-box">
+      <h2>AMP playground</h2>
       <!-- AMP custom tag -->
       <amp-img src="https://www.xgqfrms.xyz/favicon.png" alt="favicon.png" height="300" width="300"></amp-img>
+      <!-- AMP event -->
+      <button on="tap:desc.hide">tap:desc.hide</button>
+      <div>
+        <p id="desc">Welcome to the AMP mobile web</h1>
+      </div>
+      <button on="tap:desc.show">tap:desc.show</button>
+      <hr />
+      <div>
+        <!-- AMP image & animation -->
+        <amp-anim
+          width="400"
+          height="300"
+          src="/static/inline-examples/images/wavepool.gif"
+        >
+          <amp-img
+            placeholder
+            width="400"
+            height="300"
+            src="/static/inline-examples/images/wavepool.png"
+          >
+          </amp-img>
+        </amp-anim>
+        <!-- AMP video -->
+        <amp-video
+          controls
+          width="640"
+          height="360"
+          src="/static/inline-examples/videos/kitten-playing.mp4"
+          poster="/static/inline-examples/images/kitten-playing.png">
+          <div fallback>
+            <p>This browser does not support the video element.</p>
+          </div>
+        </amp-video>
+        <!-- AMP audio -->
+        <amp-audio
+          width="400"
+          height="200"
+          src="/static/inline-examples/audio/cat-meow.mp3">
+          <div fallback>
+            <p>Your browser doesn’t support HTML5 audio.</p>
+          </div>
+          <source type="audio/mpeg"
+            src="/static/inline-examples/audio/cat-meow.mp3">
+          <source type="audio/ogg"
+            src="/static/inline-examples/audio/cat-meow.ogg">
+        </amp-audio>
+      </div>
     </section>
   </main>
   <footer class="site-footer">
