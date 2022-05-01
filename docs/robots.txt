@@ -9,38 +9,38 @@ User-agent: sogou spider
 Disallow: /
 User-agent: YodaoBot
 Disallow: /
-User-agent: Googlebot
-Disallow: 
+# User-agent: Googlebot
+# Disallow:
 User-agent: Bingbot
-Disallow: 
+Disallow:
 User-agent: Slurp
-Disallow: 
+Disallow:
 User-agent: Teoma
-Disallow: 
+Disallow:
 User-agent: ia_archiver
-Disallow: 
+Disallow:
 User-agent: twiceler
-Disallow: 
+Disallow:
 User-agent: MSNBot
-Disallow: 
+Disallow:
 User-agent: Scrubby
-Disallow: 
+Disallow:
 User-agent: Robozilla
-Disallow: 
+Disallow:
 User-agent: Gigabot
-Disallow: 
-User-agent: googlebot-image
-Disallow: 
-User-agent: googlebot-mobile
-Disallow: 
+Disallow:
+# User-agent: googlebot-image
+# Disallow:
+# User-agent: googlebot-mobile
+# Disallow:
 User-agent: yahoo-mmcrawler
-Disallow: 
+Disallow:
 User-agent: yahoo-blogs/v3.9
-Disallow: 
+Disallow:
 User-agent: psbot
-Disallow: 
+Disallow:
 User-agent: *
-Disallow: 
+# Disallow:
 Disallow: /bin/
 Sitemap: https://www.xgqfrms.xyz/sitemap.xml
 
