@@ -1,6 +1,6 @@
 /* xgqfrms.xyz, webgeeker.xyz */
 
-/* Time: 2016.01.01 -> 2020/09/11 */
+/* Time: 2016.01.01 -> 2022/05/01 */
 
 /* TEAM */
     Chef: xgqfrms, webgeeker
@@ -40,31 +40,33 @@
     Twitter: @xgqfrms
     Facebook: @xgqfrms
     From: ShangHai, China
-    
+
     ZH Translator: xgqfrms, webgeeker
     Twitter: @xgqfrms
     Facebook: @xgqfrms
     From: ShangHai, China
-    
+
     JA Translator: xgqfrms, webgeeker
     Twitter: @xgqfrms
     Facebook: @xgqfrms
     From: ShangHai, China
-    
+
     Media Queries by: xgqfrms, webgeeker (@xgqfrms) and xgqfrms, webgeeker(@xgqfrms)
 
 /* SITE */
-    /* Last update:2016/11/11 */
-    Last update:2020/09/11
+    /* Last update: 2016/11/11 */
+    Last update: 2022/05/01
     Language: English / / Japanese / Korean / Chinese
     Doctype: HTML5, HTML5.2, HTML5.3
-    IDE: Sublime Text 3, Visual Studio Code v1.7 -> v1.49.1, Google Chrome, Google Chrome Canary, GitHub, Notepad++, Photoshop
+    IDE: Sublime Text 3, Visual Studio Code v1.7 -> v1.49.1, Google Chrome, Google Chrome Canary, GitHub, Notepad++, PhotoShop
     Styles: Normalize.css, Animate.css, reset.css
     Web Technology: CSS3, HTML5, jQuery, Modernizr, ES6, ES7, ES-Next, Node.js, javascript, Flutter
     Back-End: PHP, Java, Python, Ruby, C#, Go
-    Web Framewoks: React 2, Angular 2 -> 10, Ionic 2
+    Web Frameworks: React 2, Angular 2 -> 10, Ionic 2
     Web Server: Apache , Nginx, Express, socket.io
     Sublime Text 3, Visual Studio Code 1.7, Google Chrome Canary, GitHub, React 2, Angular 2, Ionic 2
-    Standards: HTML5, CSS3, JavaScript, C#, PHP, JavaScrip, ECMA-262, ES 6, ES 7, xgqfrms, github, xgqfrms.xyz
+    Standards: HTML5, CSS3, JavaScript, C#, PHP, JavaScript, ECMA-262, ES 6, ES 7, xgqfrms, github, xgqfrms.xyz
     Components: Modernizr, jQuery, Node.js, AngularJS, React, React-Native, Flutter
+    App Technology: iOS, Swift, Android, Kotlin
+    Mini-App: Taro，uni-app
 
