@@ -106,6 +106,10 @@ https://www.xgqfrms.xyz/
 [![learning : A collection of all kinds of resources, videos, pdf, blogs, codes... 📚 + 💻 + ❤](https://github-readme-stats.vercel.app/api/pin/?username=xgqfrms&repo=learning)](https://learning.xgqfrms.xyz)
 
 
+[![SwiftUI In Action 🚀](https://github-readme-stats.vercel.app/api/pin/?username=xgqfrms&repo=SwiftUI-In-Action)](https://swiftui.xgqfrms.xyz)
+
+
+
 <!-- 
 https://github.com/devicons/devicon
 
