@@ -1,0 +1,3 @@
+# ignore HTML linguist
+*.html linguist-detectable=false
+
