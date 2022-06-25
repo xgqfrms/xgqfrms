@@ -3,7 +3,7 @@
   <img
     src="https://cdn.xgqfrms.xyz/images/wave-hand.gif"
     srcset="https://cdn.xgqfrms.xyz/images/wave-hand.gif 1x, https://cdn.xgqfrms.xyz/images/wave-hand.gif 2x"
-    alt="👋 wave-hand.gif" title="wave-hand" style="width: 200px; height: 200px;"/>
+    alt="👋 wave-hand.gif" title="wave-hand ✋ 如来神掌" style="width: 200px; height: 200px;"/>
   </span>
 </h1>
 
