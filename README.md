@@ -210,3 +210,6 @@ Here are some ideas to get you started:
 <a href="https://info.flagcounter.com/woW7">
     <img src="https://s05.flagcounter.com/count2/woW7/bg_000000/txt_00ff00/border_FF00FF/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0">
 </a>
+
+
+![GitHub Metrics SVG](/github-metrics.svg)
