@@ -48,4 +48,4 @@ jobs:
           plugin_people: yes
           plugin_people_types: followers
           plugin_people_limit: 36
-          plugin_people_size: 80
+          plugin_people_size: 100
