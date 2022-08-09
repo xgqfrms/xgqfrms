@@ -103,6 +103,7 @@ https://www.xgqfrms.xyz/
 
 ## projects 🔥
 
+<section style="display: flex; flex-flow: row nowrap;">
 
 [![linux-online-docs(鸟哥的Linux 私房菜) 🔥 🚀 🎉 🇨🇳](https://github-readme-stats.vercel.app/api/pin/?username=xgqfrms&repo=linux-online-docs)](https://linux.xgqfrms.xyz)
 
@@ -115,7 +116,15 @@ https://www.xgqfrms.xyz/
 
 [![SwiftUI In Action 🚀](https://github-readme-stats.vercel.app/api/pin/?username=xgqfrms&repo=SwiftUI-In-Action)](https://swiftui.xgqfrms.xyz)
 
+</section>
 
+<!--
+
+<script>
+  console.log(`markdown script testing ✅`);
+</script>
+
+-->
 
 <!-- 
 https://github.com/devicons/devicon
@@ -223,3 +232,12 @@ Here are some ideas to get you started:
 
 
 ![GitHub Metrics SVG](/github-metrics.svg)
+
+
+<p align="center">copyright© <mark style="color: #0f0;">xgqfrms</mark> 2012 ~ forever</p>
+
+
+
+
+
+
