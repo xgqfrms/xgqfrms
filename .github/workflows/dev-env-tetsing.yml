@@ -25,11 +25,11 @@ jobs:
       # 使用 - uses 
       - uses: actions/checkout@v2
       # 使用 - name + uses
-      - name: 使用 自定义 github action: github fe oss project template
+      - name: 使用 自定义 github action
         uses: xgqfrms/github-fe-oss-project-template@v0.0.1
-          with:
-            # 使用 dev-env 下的 token， secrets.DEV_TOKEN_FOR_MAIN
-            ghToken: ${{ secrets.DEV_TOKEN_FOR_MAIN }}
+        with:
+          # 使用 dev-env 下的 token， secrets.DEV_TOKEN_FOR_MAIN
+          ghToken: ${{ secrets.DEV_TOKEN_FOR_MAIN }}
 
       # 使用 runners shell 运行单个命令
       - name: Run a one-line script ✅ 👨🏻‍💻
