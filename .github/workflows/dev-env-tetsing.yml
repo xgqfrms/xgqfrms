@@ -1,0 +1,43 @@
+# This is a basic workflow to help you get started with Actions
+
+name: 🚀 dev token for main branch 👻
+
+# 控制 action 何时运行
+# 在 push 或 pull 请求时触发工作流程事件，但仅针对  master 分支
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ mian ]
+
+# 一个 workflow 运行由可以串行或并行运行的一个或多个 jobs 组成
+jobs:
+  # 此工作流程仅包含一个名为 "dev-deploymen" 的 job /job 名称: dev-deploymen
+  dev-deployment:
+    # job 将运行的 runner 类型(执行的系统环境 Linux/ macOS / Windows)
+    runs-on: ubuntu-latest
+    # 使用 environment `dev-env`
+    environment: dev-env
+    
+    # 步骤表示将作为 job 一部分执行的一系列 tasks
+    steps:
+      # 在 $GITHUB_WORKSPACE下检出你的repository，以便你的 job 可以访问它
+      # 使用 - uses 
+      - uses: actions/checkout@v2
+      # 使用 - name + uses
+      - name: 使用 自定义 github action: github fe oss project template
+        uses: xgqfrms/github-fe-oss-project-template@v0.0.1
+          with:
+            # 使用 dev-env 下的 token， secrets.DEV_TOKEN_FOR_MAIN
+            ghToken: ${{ secrets.DEV_TOKEN_FOR_MAIN }}
+
+      # 使用 runners shell 运行单个命令
+      - name: Run a one-line script ✅ 👨🏻‍💻
+        run: echo 正在执行单个命令!
+
+      # 使用 runners shell 运行一组命令
+      - name: Run a multi-line script ✅ 👨🏻‍💻
+        run: |
+          echo 正在执行多个命令的
+          echo finished 🎉
+
