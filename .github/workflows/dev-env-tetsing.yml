@@ -26,7 +26,7 @@ jobs:
       - uses: actions/checkout@v2
       # 使用 - name + uses
       - name: 使用 自定义 github action
-        uses: xgqfrms/github-fe-oss-project-template@v0.0.1
+        uses: xgqfrms/github-fe-oss-project-template@v0.0.2
         with:
           # 使用 dev-env 下的 token， secrets.DEV_TOKEN_FOR_MAIN
           ghToken: ${{ secrets.DEV_TOKEN_FOR_MAIN }}
