@@ -24,19 +24,6 @@ jobs:
       # 在 $GITHUB_WORKSPACE下检出你的repository，以便你的 job 可以访问它
       # 使用 - uses 
       - uses: actions/checkout@v2
-      # 指定 Node.js 版本
-      - name: Use Node.js 16.x
-        uses: actions/setup-node@v2
-        with:
-          node-version: 16.x
-          cache: 'npm'
-          cache-dependency-path: package-lock.json
-      # 安装依赖
-      - name: Install dependencies
-        run: npm ci
-      # 构建项目
-      - name: Build
-        run: npm run build
       # 使用 - name + uses
       - name: 使用 自定义 github action
         uses: xgqfrms/github-fe-oss-project-template@v0.0.3
