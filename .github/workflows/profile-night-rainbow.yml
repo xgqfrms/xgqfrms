@@ -1,54 +1,24 @@
 name: GitHub-Profile-3D-Contrib
+
 on:
-  # Schedule updates (each day 24 点 00 分自动执行一次)
-  # corn 参考
-  # https://img2020.cnblogs.com/blog/740516/202012/740516-20201203230232201-913405527.png
-  # https://www.cnblogs.com/xgqfrms/p/14079442.html
-  schedule: [{cron: "59 23 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
-  push: {branches: ["master"]}
-
-# https://docs.github.com/en/actions/learn-github-actions/contexts
-# https://docs.github.com/en/actions/learn-github-actions/contexts#github-context
-
-# https://github.com/xgqfrms/xgqfrms/settings/secrets/actions
-# - uses: actions/checkout@v3
-
-# https://docs.github.com/en/actions/learn-github-actions/environment-variables
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      # - uses: actions/checkout@v3
       - uses: actions/checkout@v2
-      # - uses: yoshi389111/github-profile-3d-contrib@latest
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: 250
-      # 执行单行命令 ??? env
-      # - name: "Hello env $EMAIL"
-      #   run: echo "$EMAIL"
-      # - name: "Hello env $FLAG"
-      #   if: ${{ env.FLAG == 'true' }}
-      #   run: echo "$FLAG"
-      # 执行多行命令
-      - name: Print env ❓
-        run: env | sort
       - name: Commit & Push
         run: |
-          git config user.name ${{ github.repository_owner }}
+          git config user.name xgqfrms
           git config user.email xgqfrms@xgqfrms.xyz
           git add -A .
-          git commit -m "feat: update GitHub 3D Profile"
+          git commit -m "feat: update GitHub 3D Profile 👻"
           git push
-        # run: |
-        #   git config user.name ${{ github.repository_owner }}
-        #   git config user.email xgqfrms@xgqfrms.xyz  git config user.email ${{ secrets.EMAIL }}
-        #   git add -A .
-        #   git commit -m "feat: update GitHub 3D Profile"
-        #   git push
