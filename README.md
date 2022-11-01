@@ -243,7 +243,15 @@ Here are some ideas to get you started:
 |<div style="width: 200px">desciption</div>|image|
 |--|--|
 |GitHub Metrics SVG |![GitHub Metrics SVG](/github-metrics.svg)|
-|3D Profile|![3D Profile](/profile-night-rainbow.svg)|
+|3D Profile| ... |
+
+<!--
+
+CI/CD bug
+
+|3D Profile|![3D Profile](./profile-3d-contrib/profile-green.svg)|
+
+-->
 
 
 
