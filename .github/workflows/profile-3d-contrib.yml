@@ -1,8 +1,10 @@
 name: GitHub-Profile-3D-Contrib-2022
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  # schedule:
+  #  - cron: "0 18 * * *"
+  # Runs at 23:59 UTC on Fri.
+  schedule: [{cron: "59 23 * * 5"}]
   workflow_dispatch:
   push: {branches: ["master"]}
 
